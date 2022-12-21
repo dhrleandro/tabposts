@@ -36,7 +36,7 @@ Vou tentar resumir mais ou menos a responsabilidade de cada parte do app atravé
 
 # Features
 
-Atualmente o Lixlr faz poucas coisas, mas pretendo ir adicionando mais features ao poucos. Dependendo de quando você estiver lendo isso as coisas já podem ter mudado, o código de referência deste post vai até o commit [b03c68e6103a4f68105bd11e328db0b532074aef](https://github.com/dhrleandro/lixlr/tree/b03c68e6103a4f68105bd11e328db0b532074aef).
+Atualmente o Lixlr faz poucas coisas, mas pretendo ir adicionando mais features ao poucos. Dependendo de quando você estiver lendo isso as coisas já podem ter mudado, o código de referência deste post vai até o commit [d6835155cb267c8788e7f378974d01eebd3a5015](https://github.com/dhrleandro/lixlr/tree/d6835155cb267c8788e7f378974d01eebd3a5015).
 
 **Implementado:**
 
