@@ -1,4 +1,4 @@
-Fala pessoal! Este é o meu primeiro post de muitos (eu espero) por aqui.
+Fala pessoal! Este é o meu primeiro post de muitos (eu espero) por aqui. Antes de mais nada gostaria de agradecer à todos por esta comunidade maravilhosa.
 
 Sério, estou muito feliz por ter chegado até aqui neste projeto. Eu sei, ainda falta muito pra terminar ~~embora softwares nunca fiquem realmente prontos~~, mas já está com um resultado muito legal (na minha humilde opinião).
 
@@ -30,7 +30,7 @@ Vou tentar resumir mais ou menos a responsabilidade de cada parte do app atravé
   - utils: *Função úteis*
 - hooks: *Hook que cria o core/App e armazena em uma React.useRef*
 - icons: *Ícones em SVG, do Heroicons*
-- screens: *Componente React principal, instanciado dentro do <App />*
+- screens: *Componente React principal, instanciado dentro do componente App*
 - state: *Estado da aplicação React, utiliza react-tracked e depende do core/state*
 - styles: *Estilos em CSS Modules*
 
@@ -82,7 +82,7 @@ Sim, coloquei minha foto e redes sociais no modal da tela inicial, afinal este a
 
 Sinta-se avontade para clonar e modificar o código fonte. Ficarei feliz em ver suas criações!
 
-No momento não vou abrir o código para contribuição, mas quando a primeira versão sair, vou criar um repositório para tentarmos transformar este app em um projeto maior, como o LibreSprite, quem sabe?
+No momento não vou abrir o repositório para contribuição, mas quando a primeira versão sair, vou criar um repositório para tentarmos transformar este app em um projeto maior, como o LibreSprite, quem sabe?
 
 [Repositório no Github](https://github.com/dhrleandro/lixlr)
 
