@@ -63,9 +63,15 @@ Muitas coisas, a principal é o botão Desfazer e Refazer. Estou com dor de cabe
 
 - Desfazer / Refazer
 - Salvar a imagem
-- Ferramenta Elipse
+- Mais opções de cores
+- Ferramenta conta-gosta
+- Ferramenta elipse
+- Ferramenta de seleção
 - Renomear as camadas
 - Definir outros tamanhos de imagem
+- Controle de opacidade
+- Pincéis mais sofisticados
+- Mesclagem de camadas
 - Permitir controle de pressão em tablets como Wacom
 
 Acho que tem muitas outras coisas, mas estas são as que me lembro agora.
