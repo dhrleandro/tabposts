@@ -1,6 +1,6 @@
 Fala pessoal! Este é o meu primeiro post de muitos (eu espero) por aqui. Antes de mais nada gostaria de agradecer à todos por esta comunidade maravilhosa.
 
-Sério, estou muito feliz por ter chegado até aqui neste projeto. Eu sei, ainda falta muito pra terminar ~~embora softwares nunca fiquem realmente prontos~~, mas já está com um resultado muito legal (na minha humilde opinião).
+Sério, estou muito feliz por ter chegado até aqui neste projeto. Eu sei, ainda falta muito pra terminar ~~embora softwares nunca fiquem realmente prontos~~, mas **depois de 99 commits** acho que finalmente já está com um resultado muito legal (na minha humilde opinião).
 
 **Uma imagem vale mais do que mil palavras?**
 
